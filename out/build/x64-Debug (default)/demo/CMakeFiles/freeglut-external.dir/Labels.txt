@@ -1,0 +1,13 @@
+# Target labels
+ freeglut-external
+# Source files and their labels
+C:/Users/ayman/OneDrive/Documents/GitHub/GamePhysics/sph-sdk-1.0.0/out/build/x64-Debug (default)/demo/CMakeFiles/freeglut-external
+C:/Users/ayman/OneDrive/Documents/GitHub/GamePhysics/sph-sdk-1.0.0/out/build/x64-Debug (default)/demo/CMakeFiles/freeglut-external.rule
+C:/Users/ayman/OneDrive/Documents/GitHub/GamePhysics/sph-sdk-1.0.0/out/build/x64-Debug (default)/demo/CMakeFiles/freeglut-external-complete.rule
+C:/Users/ayman/OneDrive/Documents/GitHub/GamePhysics/sph-sdk-1.0.0/out/build/x64-Debug (default)/demo/freeglut-external-prefix/src/freeglut-external-stamp/freeglut-external-install.rule
+C:/Users/ayman/OneDrive/Documents/GitHub/GamePhysics/sph-sdk-1.0.0/out/build/x64-Debug (default)/demo/freeglut-external-prefix/src/freeglut-external-stamp/freeglut-external-mkdir.rule
+C:/Users/ayman/OneDrive/Documents/GitHub/GamePhysics/sph-sdk-1.0.0/out/build/x64-Debug (default)/demo/freeglut-external-prefix/src/freeglut-external-stamp/freeglut-external-download.rule
+C:/Users/ayman/OneDrive/Documents/GitHub/GamePhysics/sph-sdk-1.0.0/out/build/x64-Debug (default)/demo/freeglut-external-prefix/src/freeglut-external-stamp/freeglut-external-update.rule
+C:/Users/ayman/OneDrive/Documents/GitHub/GamePhysics/sph-sdk-1.0.0/out/build/x64-Debug (default)/demo/freeglut-external-prefix/src/freeglut-external-stamp/freeglut-external-patch.rule
+C:/Users/ayman/OneDrive/Documents/GitHub/GamePhysics/sph-sdk-1.0.0/out/build/x64-Debug (default)/demo/freeglut-external-prefix/src/freeglut-external-stamp/freeglut-external-configure.rule
+C:/Users/ayman/OneDrive/Documents/GitHub/GamePhysics/sph-sdk-1.0.0/out/build/x64-Debug (default)/demo/freeglut-external-prefix/src/freeglut-external-stamp/freeglut-external-build.rule

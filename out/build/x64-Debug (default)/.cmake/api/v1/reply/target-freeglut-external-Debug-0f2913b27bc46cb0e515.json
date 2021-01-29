@@ -1,0 +1,146 @@
+{
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"ExternalProject_Add",
+			"find_package"
+		],
+		"files" : 
+		[
+			"C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.18/Modules/ExternalProject.cmake",
+			"cmake/Modules/FindFreeGlutBuild.cmake",
+			"demo/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 10,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 16,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 3174,
+				"parent" : 3
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "ExternalProjectTargets/freeglut-external"
+	},
+	"id" : "freeglut-external::@7f23e6ca181cc91d5724",
+	"name" : "freeglut-external",
+	"paths" : 
+	{
+		"build" : "demo",
+		"source" : "demo"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 4,
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug (default)/demo/CMakeFiles/freeglut-external",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug (default)/demo/CMakeFiles/freeglut-external.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug (default)/demo/CMakeFiles/freeglut-external-complete.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug (default)/demo/freeglut-external-prefix/src/freeglut-external-stamp/freeglut-external-install.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug (default)/demo/freeglut-external-prefix/src/freeglut-external-stamp/freeglut-external-mkdir.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug (default)/demo/freeglut-external-prefix/src/freeglut-external-stamp/freeglut-external-download.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug (default)/demo/freeglut-external-prefix/src/freeglut-external-stamp/freeglut-external-update.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug (default)/demo/freeglut-external-prefix/src/freeglut-external-stamp/freeglut-external-patch.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug (default)/demo/freeglut-external-prefix/src/freeglut-external-stamp/freeglut-external-configure.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "out/build/x64-Debug (default)/demo/freeglut-external-prefix/src/freeglut-external-stamp/freeglut-external-build.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

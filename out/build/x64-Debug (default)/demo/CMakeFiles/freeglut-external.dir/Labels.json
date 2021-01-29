@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/ayman/OneDrive/Documents/GitHub/GamePhysics/sph-sdk-1.0.0/out/build/x64-Debug (default)/demo/CMakeFiles/freeglut-external"
+		},
+		{
+			"file" : "C:/Users/ayman/OneDrive/Documents/GitHub/GamePhysics/sph-sdk-1.0.0/out/build/x64-Debug (default)/demo/CMakeFiles/freeglut-external.rule"
+		},
+		{
+			"file" : "C:/Users/ayman/OneDrive/Documents/GitHub/GamePhysics/sph-sdk-1.0.0/out/build/x64-Debug (default)/demo/CMakeFiles/freeglut-external-complete.rule"
+		},
+		{
+			"file" : "C:/Users/ayman/OneDrive/Documents/GitHub/GamePhysics/sph-sdk-1.0.0/out/build/x64-Debug (default)/demo/freeglut-external-prefix/src/freeglut-external-stamp/freeglut-external-install.rule"
+		},
+		{
+			"file" : "C:/Users/ayman/OneDrive/Documents/GitHub/GamePhysics/sph-sdk-1.0.0/out/build/x64-Debug (default)/demo/freeglut-external-prefix/src/freeglut-external-stamp/freeglut-external-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/ayman/OneDrive/Documents/GitHub/GamePhysics/sph-sdk-1.0.0/out/build/x64-Debug (default)/demo/freeglut-external-prefix/src/freeglut-external-stamp/freeglut-external-download.rule"
+		},
+		{
+			"file" : "C:/Users/ayman/OneDrive/Documents/GitHub/GamePhysics/sph-sdk-1.0.0/out/build/x64-Debug (default)/demo/freeglut-external-prefix/src/freeglut-external-stamp/freeglut-external-update.rule"
+		},
+		{
+			"file" : "C:/Users/ayman/OneDrive/Documents/GitHub/GamePhysics/sph-sdk-1.0.0/out/build/x64-Debug (default)/demo/freeglut-external-prefix/src/freeglut-external-stamp/freeglut-external-patch.rule"
+		},
+		{
+			"file" : "C:/Users/ayman/OneDrive/Documents/GitHub/GamePhysics/sph-sdk-1.0.0/out/build/x64-Debug (default)/demo/freeglut-external-prefix/src/freeglut-external-stamp/freeglut-external-configure.rule"
+		},
+		{
+			"file" : "C:/Users/ayman/OneDrive/Documents/GitHub/GamePhysics/sph-sdk-1.0.0/out/build/x64-Debug (default)/demo/freeglut-external-prefix/src/freeglut-external-stamp/freeglut-external-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"freeglut-external"
+		],
+		"name" : "freeglut-external"
+	}
+}
